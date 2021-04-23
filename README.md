@@ -17,6 +17,8 @@ You are able to create a github account and submit bug reports at the top of the
 There is an email you can send information to and it will automatically create a bug report without the need to create a github account. Unfortunately since this method forgoes the normal reporting process, you will miss out on the above points for using a github account.   
 - **Email:** foundabug@swequestrian.com   
 
+When submitting an email, the issue title will be the subject of the email and the body will be the details in the actual issue.
+
 #### Template
 Please use the below template when submitting a bug report
 ```
