@@ -77,6 +77,9 @@ Problem:
 Suggested Solution / Addition:
 <--->
 
+How should solution be implemented?:
+<--->
+
 Addtional Details (If needed):
 <--->
 ```
