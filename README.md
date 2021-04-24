@@ -4,6 +4,13 @@ This repo is to track various bugs found by the SWE/M community during the alpha
 
 # FAQ
 
+### Where is the server?
+The server is located at the following URL   
+- alpha.swequestrian.com   
+
+### Where do I get the mod?   
+- Ask AlaharranHonor :)   
+
 ### Submitting a bug report
 To submit a bug report you can do so two different ways   
 *Note: please use the template listed at the bottom of the FAQ*   
