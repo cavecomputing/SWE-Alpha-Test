@@ -29,7 +29,7 @@ When submitting an email, the issue title will be the subject of the email and t
 ### Submitting a suggestion
 We are plenty open to suggestions!
 We want a seperate template for submitting suggestions though so we can keep them seperate from bugs.   
-The template can be found at the bottom of the FAQ but here are a few guidelines to follow.
+The template can be found at the bottom of the FAQ but please follow the naming convention.   
 
 **title:** The **title** of the issue should begin with `[Suggestion]` and if submitting over email this would be the subject.   
 
@@ -71,6 +71,8 @@ Does this happen in multiplayer?
 #### Suggestion Template
 Please use the below template for submitting suggestions   
 ```
+<---title of issue / subject of email should begin with "[Suggestion]"--->
+
 Problem:
 <--->
 
