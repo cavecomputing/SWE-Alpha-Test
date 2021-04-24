@@ -33,6 +33,8 @@ The template can be found at the bottom of the FAQ but here are a few guidelines
 
 **title:** The **title** of the issue should begin with `[Suggestion]` and if submitting over email this would be the subject.   
 
+### Templates
+
 #### Issue Template
 Please use the below template when submitting a bug report   
 ```
